@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PICO Y PLACA</string>
+    <string name="year_warning">AÑO INVALIDO: Ingrese por favor un año a partir del 2017</string>
+    <string name="month_warning">MES INVALIDO: Por favor ingrese un mes entre 1 y 12</string>
+    <string name="day_warning">FECHA INVALIDA: Intente de nuevo</string>
+    <string name="hour_warning">HORA INVALIDA: Intente de nuevo</string>
+    <string name="minute_warning">MINUTOS INVALIDOS: Intente de nuevo</string>
+    <string name="picoNotHour">PUEDE CONDUCIR dentro de la hora indicada.Sin embargo, recuerde que tiene PICO y PLACA de 7:00 a 9:30 y de 16 a 19:30</string>
+    <string name="pico">USTED TIENE PICO y PLACA en la fecha y hora indicadas. No conduzca dentro de Quito</string>
+    <string name="noProblem">PUEDE CONDUCIR. Este día no tiene restricción de circular en Quito.</string>
+    <string name="consultar">Consultar</string>
+    <string name="fecha">Fecha:</string>
+    <string name="hora">Hora:</string>
+    <string name="placa">Placa:</string>
+    <string name="indicaciones">Indicaciones:</string>
+    <string name="descripcion">Consulte con el código de sus placas si su vehículo tiene la restricción de pico y placa, dentro de la fecha y hora indicadas </string>
+</resources>
